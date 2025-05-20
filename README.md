@@ -1,1 +1,1 @@
-# EXPENSE-TRACKER
+This is an Expense Tracker website which tracks income and expenses and views the total balance left. It helps users to record, manage, and analyze their personal or business finances. It is made with HTML,CSS and Javascript.
